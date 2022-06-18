@@ -2,6 +2,8 @@
 
 **NOTE** :
 BEFORE DOWNLOADING THIS FILE, MAKE SURE YOU CREATE AN ADDITIONAL FOLDER WITH THE NAME "**tugas_akhir**" AND THEN MOVE IT.
+
+FULL VERSION LINK GD : https://drive.google.com/file/d/1JMzV18xGNvvW_HnecIBz-c5k-vsZZA-3/view?usp=sharing
 ## Getting Started
 
 This project is a starting point for a Flutter application.
