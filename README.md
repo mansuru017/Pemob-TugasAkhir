@@ -1,6 +1,6 @@
 # tugas_akhir
 
-**NOTED** BEFORE DOWNLOADED THIS FILE, MAKE SURE MAKE FOLDER NAME "tugas_akhir" in then replace file download inside there.
+**NOTED** BEFORE DOWNLOADED THIS FILE, MAKE SURE YOU MAKE A FOLDER NAME "tugas_akhir" in then replace file download inside there.
 
 ## Getting Started
 
