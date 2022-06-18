@@ -1,6 +1,6 @@
 # tugas_akhir
 
-A new Flutter project.
+**NOTED** BEFORE DOWNLOADED THIS FILE, MAKE SURE MAKE FOLDER NAME "tugas_akhir" in then replace file download inside there.
 
 ## Getting Started
 
