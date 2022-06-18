@@ -1,6 +1,7 @@
 # tugas_akhir
 
-**NOTE** BEFORE DOWNLOADING THIS FILE, MAKE SURE YOU CREATE AN ADDITIONAL FOLDER WITH THE NAME "**tugas_akhir**" AND THEN MOVE IT.
+**NOTE** :
+BEFORE DOWNLOADING THIS FILE, MAKE SURE YOU CREATE AN ADDITIONAL FOLDER WITH THE NAME "**tugas_akhir**" AND THEN MOVE IT.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
